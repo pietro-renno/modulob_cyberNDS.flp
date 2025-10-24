@@ -1,0 +1,151 @@
+2025-10-24 15:15:29,281 - Porta COM3 não encontrada. Tentando novamente em 5 segundos...
+2025-10-24 15:15:34,282 - Porta COM3 não encontrada. Tentando novamente em 5 segundos...
+2025-10-24 15:15:39,283 - Porta COM3 não encontrada. Tentando novamente em 5 segundos...
+2025-10-24 15:15:44,283 - Porta COM3 não encontrada. Tentando novamente em 5 segundos...
+2025-10-24 15:15:49,284 - Porta COM3 não encontrada. Tentando novamente em 5 segundos...
+2025-10-24 15:15:54,285 - Porta COM3 não encontrada. Tentando novamente em 5 segundos...
+2025-10-24 15:16:09,240 - Conectado com sucesso à porta COM8 em 115200 baud.
+2025-10-24 15:16:09,247 - Erro ao decodificar JSON. Linha recebida: '}'
+2025-10-24 15:16:09,632 - Erro ao decodificar JSON. Linha recebida: 'On":true,"alarmOn":false}'
+2025-10-24 15:16:10,949 - Erro ao decodificar JSON. Linha recebida: 'Iniciando Estação Central NRF24L01 Receptor.'
+2025-10-24 15:16:11,051 - Erro ao decodificar JSON. Linha recebida: 'NRF24L01 Receptor configurado e ouvindo.'
+2025-10-24 15:16:11,150 - Erro ao decodificar JSON. Linha recebida: 'Para enviar comandos, digite no formato 'NodeX:COMANDO' (ex: Node1:LIGAR_MOTOR)'
+2025-10-24 15:16:14,900 - [ANOMALIA] Nó: Node2 - Umidade Baixa! Umidade: 32.0%
+2025-10-24 15:16:16,882 - [ANOMALIA] Nó: Node2 - Umidade Alta! Umidade: 72.0%
+2025-10-24 15:16:18,948 - [ANOMALIA] Nó: Node2 - Umidade Alta! Umidade: 78.0%
+2025-10-24 15:16:20,927 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 34.0°C
+2025-10-24 15:16:20,927 - [ANOMALIA] Nó: Node2 - Umidade Baixa! Umidade: 34.0%
+2025-10-24 15:16:25,026 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 33.0°C
+2025-10-24 15:16:27,106 - [ANOMALIA] Nó: Node2 - Umidade Baixa! Umidade: 36.0%
+2025-10-24 15:16:33,450 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 32.0°C
+2025-10-24 15:16:33,451 - [ANOMALIA] Nó: Node2 - Umidade Alta! Umidade: 73.0%
+2025-10-24 15:16:33,795 - [ANOMALIA] Nó: Node2 - Umidade Baixa! Umidade: 32.0%
+2025-10-24 15:16:35,265 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 33.0°C
+2025-10-24 15:16:39,346 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 32.0°C
+2025-10-24 15:16:47,423 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 32.0°C
+2025-10-24 15:16:49,471 - [ANOMALIA] Nó: Node2 - Umidade Baixa! Umidade: 39.0%
+2025-10-24 15:16:51,568 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 34.0°C
+2025-10-24 15:16:53,534 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 33.0°C
+2025-10-24 15:16:53,534 - [ANOMALIA] Nó: Node2 - Umidade Alta! Umidade: 74.0%
+2025-10-24 15:16:55,615 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 34.0°C
+2025-10-24 15:16:57,697 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 32.0°C
+2025-10-24 15:17:03,792 - [ANOMALIA] Nó: Node2 - Umidade Alta! Umidade: 76.0%
+2025-10-24 15:17:07,873 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 34.0°C
+2025-10-24 15:17:09,852 - [ANOMALIA] Nó: Node2 - Umidade Baixa! Umidade: 33.0%
+2025-10-24 15:17:11,902 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 32.0°C
+2025-10-24 15:17:13,950 - [ANOMALIA] Nó: Node2 - Umidade Baixa! Umidade: 37.0%
+2025-10-24 15:17:20,012 - [ANOMALIA] Nó: Node2 - Umidade Baixa! Umidade: 36.0%
+2025-10-24 15:17:22,168 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 34.0°C
+2025-10-24 15:17:24,124 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 32.0°C
+2025-10-24 15:17:24,124 - [ANOMALIA] Nó: Node2 - Umidade Alta! Umidade: 72.0%
+2025-10-24 15:17:26,178 - [ANOMALIA] Nó: Node2 - Umidade Baixa! Umidade: 32.0%
+2025-10-24 15:17:32,264 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 34.0°C
+2025-10-24 15:17:32,264 - [ANOMALIA] Nó: Node2 - Umidade Baixa! Umidade: 36.0%
+2025-10-24 15:17:34,288 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 34.0°C
+2025-10-24 15:17:34,288 - [ANOMALIA] Nó: Node2 - Umidade Alta! Umidade: 78.0%
+2025-10-24 15:17:36,317 - [ANOMALIA] Nó: Node2 - Umidade Alta! Umidade: 79.0%
+2025-10-24 15:17:38,344 - [ANOMALIA] Nó: Node2 - Umidade Alta! Umidade: 75.0%
+2025-10-24 15:17:40,475 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 31.0°C
+2025-10-24 15:17:46,557 - [ANOMALIA] Nó: Node2 - Umidade Alta! Umidade: 77.0%
+2025-10-24 15:17:48,584 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 33.0°C
+2025-10-24 15:17:48,584 - [ANOMALIA] Nó: Node2 - Umidade Baixa! Umidade: 32.0%
+2025-10-24 15:17:52,637 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 32.0°C
+2025-10-24 15:17:52,637 - [ANOMALIA] Nó: Node2 - Umidade Alta! Umidade: 73.0%
+2025-10-24 15:17:56,691 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 33.0°C
+2025-10-24 15:18:00,845 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 34.0°C
+2025-10-24 15:18:02,874 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 31.0°C
+2025-10-24 15:18:10,989 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 33.0°C
+2025-10-24 15:18:13,015 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 31.0°C
+2025-10-24 15:18:17,071 - [ANOMALIA] Nó: Node2 - Umidade Alta! Umidade: 79.0%
+2025-10-24 15:18:23,160 - [ANOMALIA] Nó: Node2 - Umidade Baixa! Umidade: 38.0%
+2025-10-24 15:18:25,288 - [ANOMALIA] Nó: Node2 - Umidade Alta! Umidade: 78.0%
+2025-10-24 15:18:29,338 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 34.0°C
+2025-10-24 15:18:31,365 - [ANOMALIA] Nó: Node2 - Umidade Alta! Umidade: 72.0%
+2025-10-24 15:22:18,512 - Conectado com sucesso à porta COM8 em 115200 baud.
+2025-10-24 15:22:18,522 - Erro ao decodificar JSON. Linha recebida: 'alarmOn":false}'
+2025-10-24 15:22:19,032 - Erro ao decodificar JSON. Linha recebida: 'On":true,"alarmOn":false}'
+2025-10-24 15:22:20,187 - Erro ao decodificar JSON. Linha recebida: 'Iniciando Estação Central NRF24L01 Receptor.'
+2025-10-24 15:22:20,308 - Erro ao decodificar JSON. Linha recebida: 'NRF24L01 Receptor configurado e ouvindo.'
+2025-10-24 15:22:20,418 - Erro ao decodificar JSON. Linha recebida: 'Para enviar comandos, digite no formato 'NodeX:COMANDO' (ex: Node1:LIGAR_MOTOR)'
+2025-10-24 15:22:21,786 - [ANOMALIA] Nó: Node1 - Superaquecimento! Temperatura: 30.8°C
+2025-10-24 15:22:21,786 - [ANOMALIA] Nó: Node1 - Umidade Baixa! Umidade: 30.0%
+2025-10-24 15:22:21,903 - [ANOMALIA] Nó: Node2 - Umidade Baixa! Umidade: 33.0%
+2025-10-24 15:22:23,828 - [ANOMALIA] Nó: Node1 - Superaquecimento! Temperatura: 30.7°C
+2025-10-24 15:22:23,829 - [ANOMALIA] Nó: Node1 - Umidade Baixa! Umidade: 30.0%
+2025-10-24 15:22:23,939 - [ANOMALIA] Nó: Node2 - Umidade Alta! Umidade: 77.0%
+2025-10-24 15:22:25,876 - [ANOMALIA] Nó: Node1 - Superaquecimento! Temperatura: 30.5°C
+2025-10-24 15:22:25,876 - [ANOMALIA] Nó: Node1 - Umidade Baixa! Umidade: 30.0%
+2025-10-24 15:22:26,046 - [ANOMALIA] Nó: Node2 - Umidade Alta! Umidade: 78.0%
+2025-10-24 15:22:27,843 - [ANOMALIA] Nó: Node1 - Superaquecimento! Temperatura: 30.4°C
+2025-10-24 15:22:27,843 - [ANOMALIA] Nó: Node1 - Umidade Baixa! Umidade: 30.0%
+2025-10-24 15:22:29,864 - [ANOMALIA] Nó: Node1 - Superaquecimento! Temperatura: 30.3°C
+2025-10-24 15:22:29,864 - [ANOMALIA] Nó: Node1 - Umidade Baixa! Umidade: 31.0%
+2025-10-24 15:22:29,976 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 34.0°C
+2025-10-24 15:22:29,976 - [ANOMALIA] Nó: Node2 - Umidade Alta! Umidade: 71.0%
+2025-10-24 15:22:31,906 - [ANOMALIA] Nó: Node1 - Superaquecimento! Temperatura: 30.2°C
+2025-10-24 15:22:31,907 - [ANOMALIA] Nó: Node1 - Umidade Baixa! Umidade: 31.0%
+2025-10-24 15:22:33,948 - [ANOMALIA] Nó: Node1 - Superaquecimento! Temperatura: 30.1°C
+2025-10-24 15:22:33,949 - [ANOMALIA] Nó: Node1 - Umidade Baixa! Umidade: 31.0%
+2025-10-24 15:22:34,083 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 32.0°C
+2025-10-24 15:22:36,029 - [ANOMALIA] Nó: Node1 - Umidade Baixa! Umidade: 32.0%
+2025-10-24 15:22:36,144 - [ANOMALIA] Nó: Node2 - Umidade Alta! Umidade: 71.0%
+2025-10-24 15:22:38,161 - [ANOMALIA] Nó: Node1 - Umidade Baixa! Umidade: 32.0%
+2025-10-24 15:22:40,051 - [ANOMALIA] Nó: Node1 - Umidade Baixa! Umidade: 32.0%
+2025-10-24 15:22:40,260 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 31.0°C
+2025-10-24 15:22:42,141 - [ANOMALIA] Nó: Node1 - Umidade Baixa! Umidade: 32.0%
+2025-10-24 15:22:42,251 - [ANOMALIA] Nó: Node2 - Umidade Alta! Umidade: 74.0%
+2025-10-24 15:22:44,146 - [ANOMALIA] Nó: Node1 - Umidade Baixa! Umidade: 33.0%
+2025-10-24 15:22:44,254 - [ANOMALIA] Nó: Node2 - Umidade Alta! Umidade: 77.0%
+2025-10-24 15:22:46,178 - [ANOMALIA] Nó: Node1 - Umidade Baixa! Umidade: 33.0%
+2025-10-24 15:22:46,286 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 32.0°C
+2025-10-24 15:22:48,209 - [ANOMALIA] Nó: Node1 - Umidade Baixa! Umidade: 34.0%
+2025-10-24 15:22:48,317 - [ANOMALIA] Nó: Node2 - Umidade Alta! Umidade: 77.0%
+2025-10-24 15:22:50,240 - [ANOMALIA] Nó: Node1 - Umidade Baixa! Umidade: 34.0%
+2025-10-24 15:22:52,276 - [ANOMALIA] Nó: Node1 - Umidade Baixa! Umidade: 35.0%
+2025-10-24 15:22:52,384 - [ANOMALIA] Nó: Node2 - Umidade Alta! Umidade: 79.0%
+2025-10-24 15:22:54,313 - [ANOMALIA] Nó: Node1 - Umidade Baixa! Umidade: 35.0%
+2025-10-24 15:22:56,348 - [ANOMALIA] Nó: Node1 - Umidade Baixa! Umidade: 35.0%
+2025-10-24 15:22:58,480 - [ANOMALIA] Nó: Node1 - Umidade Baixa! Umidade: 35.0%
+2025-10-24 15:23:00,510 - [ANOMALIA] Nó: Node1 - Umidade Baixa! Umidade: 36.0%
+2025-10-24 15:23:00,616 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 33.0°C
+2025-10-24 15:23:00,617 - [ANOMALIA] Nó: Node2 - Umidade Alta! Umidade: 71.0%
+2025-10-24 15:23:02,539 - [ANOMALIA] Nó: Node1 - Umidade Baixa! Umidade: 36.0%
+2025-10-24 15:23:02,647 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 32.0°C
+2025-10-24 15:23:04,570 - [ANOMALIA] Nó: Node1 - Umidade Baixa! Umidade: 36.0%
+2025-10-24 15:23:04,678 - [ANOMALIA] Nó: Node2 - Umidade Alta! Umidade: 77.0%
+2025-10-24 15:23:06,600 - [ANOMALIA] Nó: Node1 - Umidade Baixa! Umidade: 37.0%
+2025-10-24 15:23:06,709 - [ANOMALIA] Nó: Node2 - Umidade Alta! Umidade: 79.0%
+2025-10-24 15:23:08,632 - [ANOMALIA] Nó: Node1 - Umidade Baixa! Umidade: 37.0%
+2025-10-24 15:23:08,739 - [ANOMALIA] Nó: Node2 - Umidade Alta! Umidade: 71.0%
+2025-10-24 15:23:10,661 - [ANOMALIA] Nó: Node1 - Umidade Baixa! Umidade: 37.0%
+2025-10-24 15:23:10,768 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 31.0°C
+2025-10-24 15:23:10,768 - [ANOMALIA] Nó: Node2 - Umidade Baixa! Umidade: 30.0%
+2025-10-24 15:23:12,692 - [ANOMALIA] Nó: Node1 - Umidade Baixa! Umidade: 38.0%
+2025-10-24 15:23:14,723 - [ANOMALIA] Nó: Node1 - Umidade Baixa! Umidade: 38.0%
+2025-10-24 15:23:14,831 - [ANOMALIA] Nó: Node2 - Umidade Alta! Umidade: 71.0%
+2025-10-24 15:23:16,754 - [ANOMALIA] Nó: Node1 - Umidade Baixa! Umidade: 38.0%
+2025-10-24 15:23:18,783 - [ANOMALIA] Nó: Node1 - Umidade Baixa! Umidade: 38.0%
+2025-10-24 15:23:20,813 - [ANOMALIA] Nó: Node1 - Umidade Baixa! Umidade: 39.0%
+2025-10-24 15:23:20,921 - [ANOMALIA] Nó: Node2 - Umidade Alta! Umidade: 78.0%
+2025-10-24 15:23:22,844 - [ANOMALIA] Nó: Node1 - Umidade Baixa! Umidade: 39.0%
+2025-10-24 15:23:22,951 - [ANOMALIA] Nó: Node2 - Umidade Alta! Umidade: 73.0%
+2025-10-24 15:23:24,879 - [ANOMALIA] Nó: Node1 - Umidade Baixa! Umidade: 39.0%
+2025-10-24 15:23:24,990 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 33.0°C
+2025-10-24 15:23:39,249 - [ANOMALIA] Nó: Node2 - Umidade Baixa! Umidade: 38.0%
+2025-10-24 15:23:41,280 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 33.0°C
+2025-10-24 15:23:45,443 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 32.0°C
+2025-10-24 15:23:47,472 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 31.0°C
+2025-10-24 15:24:01,717 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 32.0°C
+2025-10-24 15:24:01,718 - [ANOMALIA] Nó: Node2 - Umidade Alta! Umidade: 72.0%
+2025-10-24 15:24:09,863 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 31.0°C
+2025-10-24 15:24:09,863 - [ANOMALIA] Nó: Node2 - Umidade Alta! Umidade: 76.0%
+2025-10-24 15:24:11,893 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 31.0°C
+2025-10-24 15:24:13,932 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 34.0°C
+2025-10-24 15:24:22,055 - [ANOMALIA] Nó: Node2 - Umidade Baixa! Umidade: 31.0%
+2025-10-24 15:24:26,116 - [ANOMALIA] Nó: Node2 - Umidade Baixa! Umidade: 39.0%
+2025-10-24 15:24:30,178 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 32.0°C
+2025-10-24 15:24:32,211 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 31.0°C
+2025-10-24 15:24:32,211 - [ANOMALIA] Nó: Node2 - Umidade Baixa! Umidade: 33.0%
+2025-10-24 15:24:34,249 - [ANOMALIA] Nó: Node2 - Umidade Baixa! Umidade: 37.0%
+2025-10-24 15:24:36,286 - [ANOMALIA] Nó: Node2 - Superaquecimento! Temperatura: 32.0°C
+2025-10-24 15:24:36,286 - [ANOMALIA] Nó: Node2 - Umidade Baixa! Umidade: 38.0%

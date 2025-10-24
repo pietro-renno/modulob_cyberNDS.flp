@@ -1,0 +1,2 @@
+timestamp,nodeID,temperature,humidity,motorOn,alarmOn
+317058,Node3,18,56,True,False
